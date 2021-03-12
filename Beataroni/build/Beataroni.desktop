@@ -4,4 +4,4 @@ Version=1.0
 Type=Application
 Terminal=false
 Exec=./beataroni
-Name=Name of Application
+Name=Beataroni
